@@ -12,7 +12,7 @@ To predict the marks scored by a student using the simple linear regression mode
 
 ### Algorithm
 1. Import pandas, numpy and sklearn.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-2. Calculate the values for the training data set.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Register No: **212222240107**
+2. Calculate the values for the training data set.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 3. Calculate the values for the test data set.
 4. Plot the graph for both the data sets and calculate for MAE, MSE and RMSE.
 
