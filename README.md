@@ -6,9 +6,12 @@ To predict the marks scored by a student using the simple linear regression mode
 ### Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
+   
+### Developed By: **SUDHAKAR K**
+### Register No: **212222240107**
 
 ### Algorithm
-1. Import pandas, numpy and sklearn.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Developed By: **SUDHAKAR K**
+1. Import pandas, numpy and sklearn.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 2. Calculate the values for the training data set.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Register No: **212222240107**
 3. Calculate the values for the test data set.
 4. Plot the graph for both the data sets and calculate for MAE, MSE and RMSE.
